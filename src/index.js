@@ -1,2 +1,2 @@
-import '../src/css/style';
+import './css/style.css';
 import './js/Validator';
